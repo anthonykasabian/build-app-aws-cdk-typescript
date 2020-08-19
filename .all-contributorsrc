@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "the-friendly-coach",
+      "name": "Toni",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12294102?s=460&u=8658c7f7298a33f9aeb3584ff72a19a1be7baaa5&v=4,
+      "profile": "https://thefriendly.coach",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "build-app-aws-cdk-typescript",
+  "projectOwner": "the-friendly-coach",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
