@@ -2,7 +2,7 @@
 
 **[📹 Video](https://codecentric.de/lessons/build-app-aws-cdk)**
 
-**[💻 Code](https://github.com/tlakomy/egghead-aws-cdk-workshop)**
+**[💻 Code](https://github.com/the-friendly-coach/egghead-aws-cdk-workshop)**
 
 Hi and welcome! This document contains some of the things that I had to lookup while I was going through this course. I hope you find them useful too!
 
